@@ -13,7 +13,7 @@ public class BJ_4458 {
 			int n = Integer.parseInt(bf.readLine());
 			String[] logs = new String[n];
 
-			for (int i = 0; i < n; i++) {
+			for (int i = 0; i < n; i++) { 
 				logs[i] = bf.readLine().trim();
 			}
 			for (int i = 0; i < n; i++) {
