@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BJ_4458 {
+public class Baek_Joon_4458 {
 
 	public static void main(String[] args) {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
